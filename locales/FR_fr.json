@@ -5,12 +5,12 @@
 		"credits": "Crédits",
 		"progress": "Progression",
 		"blog": "Blog",
-		"account": "Account"
+		"account": "Compte"
 	},
 	"hero": {
 		"subtitle": "Serveurs de jeu",
 		"title": "Recréés",
-		"text": "Pretendo est un remplacement gratuit et open-source des serveurs Nintendo pour la 3DS et la Wii U permettant la connectivité en ligne pour tous, y compris après l'arrêt des serveurs officiels.",
+		"text": "Pretendo est un remplacement gratuit et open-source des serveurs Nintendo pour les Nintendo 2DS/3DS et Wii U permettant la connectivité en ligne pour tous, y compris après l'arrêt des serveurs officiels.",
 		"buttons": {
 			"readMore": "En savoir plus"
 		}
@@ -18,15 +18,15 @@
 	"aboutUs": {
 		"title": "À propos de nous",
 		"paragraphs": [
-			"Pretendo est un projet open-source qui vise à recréer le Nintendo Network pour la 3DS et la Wii U en utilisant la rétro-ingénierie.",
-			"Puisque nos services seront à la fois gratuits et open-source, ils pourront exister pendant longtemps après l'inévitable fermeture du Nintendo Network."
+			"Pretendo est un projet open-source qui vise à recréer le serveur Nintendo Network pour les Nintendo 2DS/3DS et Wii U en utilisant la rétro-ingénierie.",
+			"Puisque nos services seront à la fois gratuits et open-source, ils pourront exister longtemps après l'inévitable fermeture des serveurs Nintendo Network."
 		]
 	},
 	"progress": {
 		"title": "Progression",
 		"paragraphs": [
 			"Actuellement, nous travaillons sur Miiverse, ainsi que sur nos serveurs de comptes et son intégration avec nos services.",
-			"Pour la 3DS, nous travaillons également sur Mario Kart 7, avec la volonté de continuer à travailler sur d'autres jeux dès que possible."
+			"Pour les Nintendo 2DS/3DS, nous travaillons également sur Mario Kart 7, avec la volonté de continuer à travailler sur d'autres jeux dès que possible."
 		]
 	},
 	"faq": {
@@ -44,16 +44,16 @@
 			},
 			{
 				"question": "Comment puis-je utiliser Pretendo ?",
-				"answer": "Pretendo n'est actuellement pas dans un état prêt à être utilisé par le public. Cependant, dès qu'il le sera, vous pourrez utiliser Pretendo en exécutant simplement notre patcheur homebrew sur votre console."
+				"answer": "Pretendo n'est actuellement pas dans l'état d'être prêt à utilisé par le grand public. Cependant, dès qu'il le sera, vous pourrez utiliser Pretendo en exécutant simplement notre patcheur homebrew sur votre console."
 			},
 			{
 				"question": "Savez-vous quand <fonctionnalité/service> sera prêt ?",
-				"answer": "Non. De nombreuses fonctionnalités/services de Pretendo sont développés indépendamment (par exemple, un développeur peut travailler sur Miiverse tandis qu'un autre travaille sur Comptes et Amis) et nous ne pouvons donc pas donner d'estimation exacte du temps qu'il faudra pour que tout soit prêt."
+				"answer": "Non. De nombreuses fonctionnalités/services de Pretendo sont développés indépendamment. (Par exemple, un développeur peut travailler sur Miiverse tandis qu'un autre travaille sur Comptes et Amis). Nous ne pouvons donc pas donner d'estimation exacte du temps qu'il faudra pour que tout soit prêt."
 
 			},
 			{
 				"question": "Est-ce que Pretendo fonctionne sur Cemu/émulateurs ?",
-				"answer": "Pretendo est conçu pour la Wii U et la 3DS; pour le moment, le seul émulateur pour ces consoles qui supporte le NN est Cemu. Cemu ne prend pas officiellement en charge les serveurs personnalisés, mais il devrait tout de mêtre possible d'utiliser Pretendo avec Cemu.<br>Pretendo ne prend pas en charge Cemu actuellement."
+				"answer": "Pretendo est conçu pour les consoles Nintendo 2DS/3DS et Wii U; pour le moment, le seul émulateur pour ces dernières qui supporte le serveur Nintendo Network est Cemu. Cemu ne prend pas officiellement en charge les serveurs personnalisés, mais il devrait tout de même être possible d'utiliser Pretendo avec Cemu.<br>Pretendo ne prend pas en charge Cemu actuellement."
 			},
 			{
 				"question": "Si je suis banni du Nintendo Network, resterai-je banni lorsque j'utiliserai Pretendo ?",
@@ -70,20 +70,20 @@
 		]
 	},
 	"showcase": {
-		"title": "What we make",
-		"text": "Our project has many components. Here are some of them.",
+		"title": "Que faisons-nous ?",
+		"text": "Notre projet comporte de nombreux composants. Voici quelques-uns ci-dessous.",
 		"cards": [
 			{
-				"title": "Game servers",
-				"caption": "Bringing back your favorite games and content using custom servers."
+				"title": "Serveurs des jeux",
+				"caption": "Ramenez vos jeux et contenus préférés à l'aide de serveurs personnalisés."
 			},
 			{
 				"title": "Juxtaposition",
-				"caption": "A re-imagining of Miiverse, as if it were made in the modern era."
+				"caption": "Une réinvention de Miiverse, comme s'il avait été concu pendant l'époque moderne."
 			},
 			{
-				"title": "Cemu support",
-				"caption": "Play your favorite Wii U titles even without a console!"
+				"title": "Support de Cemu",
+				"caption": "Jouez avec vos titres Wii U préférés sans console !"
 			}
 
 		]
@@ -112,7 +112,7 @@
 			},
 			{
 				"name": "quarky",
-				"caption": "BOSS research and patch development",
+				"caption": "Recherche BOSS et développement du patch",
 				"picture": "https://github.com/QuarkTheAwesome.png",
 				"github": "https://github.com/QuarkTheAwesome"
 			},
@@ -124,7 +124,7 @@
 			},
 			{
 				"name": "Jip Fr",
-				"caption": "Web development lead",
+				"caption": "Chef du développement Web",
 				"picture": "https://github.com/jipfr.png",
 				"github": "https://github.com/jipfr"
 			},
@@ -143,8 +143,8 @@
 		]
 	},
 	"specialThanks": {
-		"title": "Special thanks",
-		"text": "Without them, Pretendo wouldn't be where it is today.",
+		"title": "Remerciement spéciaux",
+		"text": "Sans eux, Pretendo ne serait pas ce qu'il est aujourd'hui.",
 		"people": [
 			{
 				"name": "superwhiskers",
@@ -154,19 +154,19 @@
 			},
 			{
 				"name": "Stary",
-				"caption": "3DS dev and NEX dissector",
+				"caption": "3DS dev et disserteur NEX",
 				"picture": "https://github.com/Stary2001.png",
 				"github": "https://github.com/Stary2001"
 			},
 			{
 				"name": "Billy",
-				"caption": "Provider of dumps",
+				"caption": "Fournisseur des dumps",
 				"picture": "https://github.com/InternalLoss.png",
 				"github": "https://github.com/InternalLoss"
 			},
 			{
 				"name": "Shutterbug2000",
-				"caption": "Étude de Mario Kart 7 et de la 3DS",
+				"caption": "Étude de Mario Kart 7 et des consoles Nintendo 2DS/3DS",
 				"picture": "https://cdn.discordapp.com/avatars/191370953807233024/0311b61e2009c1576828dd2e9a59d72e.png?size=128",
 				"github": "https://github.com/shutterbug2000"
 			},
@@ -179,44 +179,44 @@
 			},
 			{
 				"name": "GitHub contributors",
-				"caption": "Localizations and other contributions",
+				"caption": "Localisations et autres contributions",
 				"picture": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
 			}
 		]
 	},
 	"discordJoin": {
-		"title": "Stay up to date",
-		"text": "Join our Discord server to get the latest updates on the project.",
+		"title": "Restez informé",
+		"text": "Rejoignez notre serveur Discord pour vous informer les dernières mises à jours de notre projet.",
 		"widget": {
-			"text": "Get realtime updates to our progress",
-			"button": "Join the server"
+			"text": "Obtenez les mises à jours de notre progression en temps réel",
+			"button": "Rejoignez le serveur"
 		}
 	},
 	"footer": {
 		"socials": "Socials",
-		"usefulLinks": "Useful links",
+		"usefulLinks": "Liens utile",
 		"widget": {
 			"captions": [
-				"Want to keep updated?",
-				"Join our Discord server!"
+				"Avez-vous envie de rester informé ?",
+				"Rejoignez notre serveur Discord !"
 			],
-			"button": "Join now!"
+			"button": "Rejoidre maintenant"
 		}
 	},
 	"progressPage": {
 		"title": "Notre progression",
-		"description": "Vérifiez l'avancement et les objectifs du projet ! (Mis à jour environ toute les heures, ne reflète pas TOUS nos objectifs et notre progression)."
+		"description": "Vérifiez l'avancement et les objectifs du projet ! (Mis à jour environ toutes les heures, NE reflète PAS TOUS nos objectifs et notre progression)."
 	},
 	"blogPage": {
 		"title": "Blog",
-		"description": "The latest updates in condensed chunks. If you want to see more frequent updates, consider supporting us on <a href=\"https://www.patreon.com/PretendoNetwork\" target=\"_blank\">Patreon</a>."
+		"description": "Les dernières mises à jour en morceaux condensés. Si vous voulez voir des mises à jour encore plus fréquentes, pensez à nous soutenir sur <a href=\"https://www.patreon.com/PretendoNetwork\" target=\"_blank\">Patreon</a>."
 	},
 	"localizationPage": {
-		"title": "Let's localize",
-		"description": "Paste a link to a publicly accessible JSON locale to test it on the website",
-		"instructions": "View localization instructions",
-		"fileInput": "File to test",
+		"title": "Localisons",
+		"description": "Collez un lien vers un paramètre régional JSON accessible au public pour le tester sur ce site",
+		"instructions": "Voir les instructions de localisation",
+		"fileInput": "Donner le fichier pour tester",
 		"filePlaceholder": "https://a.link.to/the_file.json",
-		"button": "Test file"
+		"button": "Tester le fichier"
 	}
 }
